@@ -1,0 +1,6 @@
+# created by virtualenv automatically
+.venv
+indirilen_sarkilar/*
+venv
+muzik_kutuphanesi.db
+
