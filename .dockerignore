@@ -1,0 +1,10 @@
+node_modules
+npm-debug.log
+.env
+venv
+temp_node_test
+temp_downloads
+*.db
+.git
+.idea
+*.log
